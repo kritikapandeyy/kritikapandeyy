@@ -1,12 +1,14 @@
 # Hi there 👋
 
-<img src="./stripe.svg" width="100%" alt="" />
+<img src="./stripe.svg" width="500%" alt="" />
 
-- 🔧 I’m currently building analytics projects in Python, SQL & Power BI
-- 🎓 Postgrad in Business Insights & Analytics (Humber)
-- 💬 Ask me about dashboards, KPIs, and data pipelines
-- ✈️ Fun fact: I love traveling and coffee-fueled data sessions
-- 📫 How to reach me: [kritikapandey565@gmail.com](mailto:kritikapandey565@gmail.com)
+#### - 🔧 I’m currently building analytics projects in Python, SQL & Power BI
+#### - 🎓 Postgrad in Business Insights & Analytics (Humber)
+#### - 💬 Ask me about dashboards, KPIs, and data pipelines
+#### - ✈️ Fun fact: I love traveling and coffee-fueled data sessions
+#### - 📫 How to reach me: [kritikapandey565@gmail.com](mailto:kritikapandey565@gmail.com)
+
+&nbsp;
 
 <!-- Tech badges -->
 ![OS](https://img.shields.io/badge/OS-Windows-1f2937?style=flat)
@@ -25,10 +27,11 @@
 ![VSCode](https://img.shields.io/badge/Editor-VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=flat)
 ![Git](https://img.shields.io/badge/Tools-Git-F05032?logo=git&logoColor=white&style=flat)
 
+&nbsp;
 
-• **Portfolio:** https://kritikapandeyy.github.io 
-• **Résumé:** https://kritikapandeyy.github.io/uploads/resume.pdf 
-• **LinkedIn:** https://www.linkedin.com/in/kritikapandeyy
+- **Portfolio:** https://kritikapandeyy.github.io
+- **Résumé:** https://kritikapandeyy.github.io/uploads/resume.pdf
+- **LinkedIn:** https://www.linkedin.com/in/kritikapandeyy
 
-<img src="./stripe.svg" width="100%" alt="" />
+<img src="./stripe.svg" width="500%" alt="" />
 
