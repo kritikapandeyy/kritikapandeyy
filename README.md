@@ -1,5 +1,4 @@
-# Hi there 👋
-
+### Hi there 👋
 <img src="./stripe.svg" width="500%" alt="" />
 
 #### - 🔧 I’m currently building analytics projects in Python, SQL & Power BI
